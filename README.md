@@ -1,2 +1,6 @@
-# GalactiX
-GalactiX Is a Minecraft Bedrock Edition Server Software Coded in Java
+What is GalactiX?
+
+GalactiX Is a Minecraft Bedrock Edition Server Software
+That Is Coded In Java
+
+Support 1.12 to lastest 
